@@ -1,0 +1,42 @@
+{
+  "ui": {
+    "title": "Teams",
+    "close": "Close",
+    "self_tag": "(you)",
+    "not_in_team": "You are not in a team",
+    "create_team": "Create team",
+    "invite_banner": "{name} has invited you to their team",
+    "accept": "Accept",
+    "decline": "Decline",
+    "invite_player": "Invite player",
+    "player_id_placeholder": "Player ID",
+    "invite": "Invite",
+    "nearby": "Nearby",
+    "team_full": "The team is full",
+    "leave_team": "Leave team",
+    "remove_member": "Remove"
+  },
+  "notify": {
+    "title": "Teams",
+    "generic_error": "Something went wrong",
+    "err_alreadyInTeam": "You are already in a team",
+    "err_invalidTarget": "Invalid player ID",
+    "err_notInTeam": "You are not in a team",
+    "err_notLeader": "Only the leader can invite",
+    "err_teamFull": "The team is full",
+    "err_targetInTeam": "That player is already in a team",
+    "err_tooFast": "Wait a moment before inviting again",
+    "err_noInvite": "No invitation to accept",
+    "err_teamGone": "The team no longer exists",
+    "err_tooFar": "The player must be within %s meters of the team leader",
+    "invite_sent": "Invitation sent to %s",
+    "invite_received": "%s has invited you to a team. Open /%s to accept or decline",
+    "invite_expired": "The invitation has expired",
+    "invite_declined": "%s declined your invitation",
+    "joined_team": "You joined the team",
+    "member_joined": "%s joined the team",
+    "member_left": "%s left the team",
+    "kicked": "You were removed from the team",
+    "left_team": "You left the team"
+  }
+}

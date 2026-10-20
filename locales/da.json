@@ -1,0 +1,42 @@
+{
+  "ui": {
+    "title": "Teams",
+    "close": "Luk",
+    "self_tag": "(dig)",
+    "not_in_team": "Du er ikke i et team",
+    "create_team": "Opret team",
+    "invite_banner": "{name} har inviteret dig til sit team",
+    "accept": "Accepter",
+    "decline": "Afvis",
+    "invite_player": "Inviter spiller",
+    "player_id_placeholder": "Spiller ID",
+    "invite": "Inviter",
+    "nearby": "I nærheden",
+    "team_full": "Teamet er fyldt",
+    "leave_team": "Forlad team",
+    "remove_member": "Fjern"
+  },
+  "notify": {
+    "title": "Teams",
+    "generic_error": "Noget gik galt",
+    "err_alreadyInTeam": "Du er allerede i et team",
+    "err_invalidTarget": "Ugyldigt spiller ID",
+    "err_notInTeam": "Du er ikke i et team",
+    "err_notLeader": "Kun lederen kan invitere",
+    "err_teamFull": "Teamet er fyldt",
+    "err_targetInTeam": "Spilleren er allerede i et team",
+    "err_tooFast": "Vent lidt før du inviterer igen",
+    "err_noInvite": "Ingen invitation at acceptere",
+    "err_teamGone": "Teamet findes ikke længere",
+    "err_tooFar": "Spilleren skal være inden for %s meter af teamlederen",
+    "invite_sent": "Invitation sendt til %s",
+    "invite_received": "%s har inviteret dig til et team. Åbn /%s for at acceptere eller afvise",
+    "invite_expired": "Invitationen er udløbet",
+    "invite_declined": "%s afviste din invitation",
+    "joined_team": "Du joinede teamet",
+    "member_joined": "%s har joinet teamet",
+    "member_left": "%s forlod teamet",
+    "kicked": "Du blev fjernet fra teamet",
+    "left_team": "Du forlod teamet"
+  }
+}
